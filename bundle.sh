@@ -28,7 +28,7 @@ cat > "$APP/Contents/Info.plist" <<PLIST
 <dict>
     <key>CFBundleName</key><string>Bitrot</string>
     <key>CFBundleDisplayName</key><string>Bitrot</string>
-    <key>CFBundleIdentifier</key><string>io.github.niksanhts.bitrot</string>
+    <key>CFBundleIdentifier</key><string>io.github.sarafanovn.bitrot</string>
     <key>CFBundleExecutable</key><string>Bitrot</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
     <key>CFBundlePackageType</key><string>APPL</string>

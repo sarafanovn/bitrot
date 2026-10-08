@@ -4,7 +4,7 @@ version = "0.2.0"
 edition = "2024"
 description = "A small macOS image editor for digital decay effects: disintegration, pixelation, pixel sorting and glitch, applied through soft masks."
 license = "MIT"
-repository = "https://github.com/niksanhts/bitrot"
+repository = "https://github.com/sarafanovn/bitrot"
 
 [dependencies]
 eframe = "0.36.2"

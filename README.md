@@ -33,7 +33,7 @@
 You need macOS and a [Rust toolchain](https://rustup.rs) (1.85+).
 
 ```sh
-git clone https://github.com/niksanhts/bitrot.git
+git clone https://github.com/sarafanovn/bitrot.git
 cd bitrot
 ./bundle.sh                          # builds target/Bitrot.app
 cp -R target/Bitrot.app /Applications/
